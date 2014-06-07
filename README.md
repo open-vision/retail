@@ -1,0 +1,4 @@
+retail
+======
+
+odoo retail application
